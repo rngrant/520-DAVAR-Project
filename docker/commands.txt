@@ -22,7 +22,6 @@
    50  apt-get install git
    51  git clone https://github.com/brittjay0104/fairkit-learn
    53  cd fairkit-learn/
-   54  pip3.6 install -r requirements.txt
    55  pip3.6 install --upgrade pip
    57  pip3.6 install -r requirements.txt
    59  pip3.6 install jupyter
