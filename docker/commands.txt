@@ -1,7 +1,6 @@
 # History of the commands run to get fairkit running inside an ubuntu container.
 
     1  apt-get update
-    2  apt-get curl
     3  apt-get install curl
     5  curl -o Python-3.6.13.tgz  https://www.python.org/ftp/python/3.6.13/Python-3.6.13.tgz
     6  apt-get install sqlite-devel
