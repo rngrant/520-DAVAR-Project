@@ -1,0 +1,292 @@
+model,hyperparameters,preprocessor,postprocessor,UnifiedMetricLibrary (statistical_parity_difference),UnifiedMetricLibrary (accuracy_score),UnifiedMetricLibrary (equal_opportunity_difference),UnifiedMetricLibrary (disparate_impact),UnifiedMetricLibrary (average_odds_difference)
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.34478154043371434,0.6801728795245813,0.2046507483962936,0.6074794770446944,0.3237675770334794
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.34478154043371434,0.6801728795245813,0.2046507483962936,0.6074794770446944,0.3237675770334794
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.34478154043371434,0.6801728795245813,0.2046507483962936,0.6074794770446944,0.3237675770334794
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.34478154043371434,0.6801728795245813,0.2046507483962936,0.6074794770446944,0.3237675770334794
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.34478154043371434,0.6801728795245813,0.2046507483962936,0.6074794770446944,0.3237675770334794
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.4136310223266745,0.6726094003241491,0.2817177476835353,0.5362318840579711,0.3899728324022911
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.4136310223266745,0.6726094003241491,0.2817177476835353,0.5362318840579711,0.3899728324022911
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.4136310223266745,0.6726094003241491,0.2817177476835353,0.5362318840579711,0.3899728324022911
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.4136310223266745,0.6726094003241491,0.2817177476835353,0.5362318840579711,0.3899728324022911
+LogisticRegression,"{'penalty': 'l1', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.4136310223266745,0.6726094003241491,0.2817177476835353,0.5362318840579711,0.3899728324022911
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.32467150945411816,0.6726094003241491,0.20607626514611543,0.6186398142919882,0.29864881959595846
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.32467150945411816,0.6726094003241491,0.20607626514611543,0.6186398142919882,0.29864881959595846
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.32467150945411816,0.6726094003241491,0.20607626514611543,0.6186398142919882,0.29864881959595846
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.32467150945411816,0.6726094003241491,0.20607626514611543,0.6186398142919882,0.29864881959595846
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.32467150945411816,0.6726094003241491,0.20607626514611543,0.6186398142919882,0.29864881959595846
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6704484062668827,0.2517818959372773,0.5489814533292794,0.3750049065291621
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6704484062668827,0.2517818959372773,0.5489814533292794,0.3750049065291621
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6704484062668827,0.2517818959372773,0.5489814533292794,0.3750049065291621
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6704484062668827,0.2517818959372773,0.5489814533292794,0.3750049065291621
+LogisticRegression,"{'penalty': 'l1', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6704484062668827,0.2517818959372773,0.5489814533292794,0.3750049065291621
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3039205213118257,0.6742301458670988,0.18148610121168918,0.6430139908400777,0.27776595136920335
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3039205213118257,0.6742301458670988,0.18148610121168918,0.6430139908400777,0.27776595136920335
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3039205213118257,0.6742301458670988,0.18148610121168918,0.6430139908400777,0.27776595136920335
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3039205213118257,0.6742301458670988,0.18148610121168918,0.6430139908400777,0.27776595136920335
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3039205213118257,0.6742301458670988,0.18148610121168918,0.6430139908400777,0.27776595136920335
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.29617562226257876,0.6747703943814155,0.16651817533856028,0.6493280632411068,0.27123618690592133
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.29617562226257876,0.6747703943814155,0.16651817533856028,0.6493280632411068,0.27123618690592133
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.29617562226257876,0.6747703943814155,0.16651817533856028,0.6493280632411068,0.27123618690592133
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.29617562226257876,0.6747703943814155,0.16651817533856028,0.6493280632411068,0.27123618690592133
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.29617562226257876,0.6747703943814155,0.16651817533856028,0.6493280632411068,0.27123618690592133
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.3875921375921376,0.6704484062668827,0.24705987170349242,0.5518465909090909,0.3656237199302631
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.38858027988462773,0.6709886547811994,0.24705987170349242,0.5507040513833992,0.36657791840354553
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.38858027988462773,0.6709886547811994,0.24705987170349242,0.5507040513833992,0.36657791840354553
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.38858027988462773,0.6709886547811994,0.24705987170349242,0.5507040513833992,0.36657791840354553
+LogisticRegression,"{'penalty': 'l1', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.38858027988462773,0.6709886547811994,0.24705987170349242,0.5507040513833992,0.36657791840354553
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3146298472385429,0.6747703943814155,0.18763364219529577,0.6333447449503594,0.2907224917628606
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3146298472385429,0.6747703943814155,0.18763364219529577,0.6333447449503594,0.2907224917628606
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3146298472385429,0.6747703943814155,0.18763364219529577,0.6333447449503594,0.2907224917628606
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3146298472385429,0.6747703943814155,0.18763364219529577,0.6333447449503594,0.2907224917628606
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3146298472385429,0.6747703943814155,0.18763364219529577,0.6333447449503594,0.2907224917628606
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6758508914100486,0.24768353528153952,0.5489814533292794,0.3748641231478581
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6758508914100486,0.24768353528153952,0.5489814533292794,0.3748641231478581
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6758508914100486,0.24768353528153952,0.5489814533292794,0.3748641231478581
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6758508914100486,0.24768353528153952,0.5489814533292794,0.3748641231478581
+LogisticRegression,"{'penalty': 'l2', 'C': 0.1, 'solver': 'liblinear'}",None,None,0.39616493964320054,0.6758508914100486,0.24768353528153952,0.5489814533292794,0.3748641231478581
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.31083751735925647,0.6753106428957321,0.18763364219529577,0.634889265324048,0.2846565157541364
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.31083751735925647,0.6753106428957321,0.18763364219529577,0.634889265324048,0.2846565157541364
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.31083751735925647,0.6753106428957321,0.18763364219529577,0.634889265324048,0.2846565157541364
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.31083751735925647,0.6753106428957321,0.18763364219529577,0.634889265324048,0.2846565157541364
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.31083751735925647,0.6753106428957321,0.18763364219529577,0.634889265324048,0.2846565157541364
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.3788590962504006,0.668827660723933,0.23619030648610118,0.5584949114562261,0.35828054037500257
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.3788590962504006,0.668827660723933,0.23619030648610118,0.5584949114562261,0.35828054037500257
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.3788590962504006,0.668827660723933,0.23619030648610118,0.5584949114562261,0.35828054037500257
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.3788590962504006,0.668827660723933,0.23619030648610118,0.5584949114562261,0.35828054037500257
+LogisticRegression,"{'penalty': 'l2', 'C': 0.5, 'solver': 'liblinear'}",None,None,0.3788590962504006,0.668827660723933,0.23619030648610118,0.5584949114562261,0.35828054037500257
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.2981519068475591,0.6763911399243652,0.17738774055595152,0.64698814229249,0.2696507950326104
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.2981519068475591,0.6763911399243652,0.17738774055595152,0.64698814229249,0.2696507950326104
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.2981519068475591,0.6763911399243652,0.17738774055595152,0.64698814229249,0.2696507950326104
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.2981519068475591,0.6763911399243652,0.17738774055595152,0.64698814229249,0.2696507950326104
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.2981519068475591,0.6763911399243652,0.17738774055595152,0.64698814229249,0.2696507950326104
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,None,0.37391838478795003,0.6720691518098325,0.21507483962936558,0.5642525909557747,0.3566513783752062
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,None,0.37391838478795003,0.6720691518098325,0.21507483962936558,0.5642525909557747,0.3566513783752062
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,None,0.37391838478795003,0.6720691518098325,0.21507483962936558,0.5642525909557747,0.3566513783752062
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,None,0.37391838478795003,0.6720691518098325,0.21507483962936558,0.5642525909557747,0.3566513783752062
+LogisticRegression,"{'penalty': 'l2', 'C': 1, 'solver': 'liblinear'}",None,None,0.37391838478795003,0.6720691518098325,0.21507483962936558,0.5642525909557747,0.3566513783752062
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3040807606024998,0.6747703943814155,0.18763364219529577,0.6399683794466403,0.275727944325565
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3040807606024998,0.6747703943814155,0.18763364219529577,0.6399683794466403,0.275727944325565
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3040807606024998,0.6747703943814155,0.18763364219529577,0.6399683794466403,0.275727944325565
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3040807606024998,0.6747703943814155,0.18763364219529577,0.6399683794466403,0.275727944325565
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",DisparateImpactRemover,None,0.3040807606024998,0.6747703943814155,0.18763364219529577,0.6399683794466403,0.275727944325565
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.3632090588612327,0.6720691518098325,0.21302565930149675,0.5733734864169647,0.34383562136285306
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.3632090588612327,0.6720691518098325,0.21302565930149675,0.5733734864169647,0.34383562136285306
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.3632090588612327,0.6720691518098325,0.21302565930149675,0.5733734864169647,0.34383562136285306
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.3632090588612327,0.6720691518098325,0.21302565930149675,0.5733734864169647,0.34383562136285306
+LogisticRegression,"{'penalty': 'l2', 'C': 1.5, 'solver': 'liblinear'}",None,None,0.3632090588612327,0.6720691518098325,0.21302565930149675,0.5733734864169647,0.34383562136285306
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,None,0.18096357226792015,0.631010264721772,0.17239843193157522,0.7424749163879598,0.13677173504975706
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,None,0.23963785920307656,0.6331712587790383,0.2287954383464006,0.688891200332848,0.20007111066720248
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,None,0.14077021685717328,0.6347920043219881,0.1287419814682822,0.7957451755405721,0.09551875518343228
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,None,0.17685076380728548,0.6283090221501891,0.1635780470420527,0.7507246376811595,0.13876830378274935
+RandomForestClassifier,{'n_estimators': 'warn'},DisparateImpactRemover,None,0.2641811772246554,0.6261480280929227,0.23841767640769773,0.6600103110500087,0.23037296034125346
+RandomForestClassifier,{'n_estimators': 'warn'},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 'warn'},None,None,0.23779510736032483,0.646677471636953,0.18264433357091947,0.6710871412212329,0.19921475130018168
+RandomForestClassifier,{'n_estimators': 'warn'},None,None,0.2513086208738383,0.6391139924365208,0.21258018531717748,0.6587736156942379,0.2103658832801809
+RandomForestClassifier,{'n_estimators': 'warn'},None,None,0.2681070398461703,0.6412749864937871,0.2351211689237348,0.6359647532363927,0.22736156592315424
+RandomForestClassifier,{'n_estimators': 'warn'},None,None,0.22478901826727915,0.6526202052944354,0.1797933000712758,0.6919557897818767,0.18122707533552884
+RandomForestClassifier,{'n_estimators': 'warn'},None,None,0.27339493643841467,0.6488384656942193,0.2220242337847469,0.6419252159921648,0.2338992488443909
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,None,0.17997542997543003,0.6283090221501891,0.18059515324305064,0.7438811188811189,0.13609910333908257
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,None,0.1928212797778015,0.6315505132360886,0.18202066999287236,0.7256004864700517,0.15241982245554198
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,None,0.24687533383185556,0.637493246893571,0.21525302922309342,0.6737718802936195,0.20952128015135044
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,None,0.1928479863262471,0.6283090221501891,0.16954739843193156,0.7405318002155947,0.15483912996841942
+RandomForestClassifier,{'n_estimators': 10},DisparateImpactRemover,None,0.1913524196132892,0.6234467855213398,0.18059515324305064,0.7353256252077869,0.15429703136525488
+RandomForestClassifier,{'n_estimators': 10},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 10},None,None,0.2575846597585728,0.637493246893571,0.19413756236635782,0.6626324810241702,0.22540847583966747
+RandomForestClassifier,{'n_estimators': 10},None,None,0.25280418758679635,0.6439762290653701,0.19413756236635782,0.6659373235460191,0.21838830135766088
+RandomForestClassifier,{'n_estimators': 10},None,None,0.21440017092191005,0.6461372231226364,0.13096935138987886,0.6977978543195934,0.18550921222710956
+RandomForestClassifier,{'n_estimators': 10},None,None,0.26020190150624933,0.6364127498649379,0.21748039914468997,0.6466983355694963,0.22685633915795023
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,None,0.1486753551970943,0.6347920043219881,0.12197077690662872,0.7842749748120592,0.1067869151708716
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,None,0.1560730691165474,0.6337115072933549,0.15208481824661435,0.7666786441489999,0.11162038076998113
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,None,0.18673218673218672,0.6293895191788222,0.17239843193157522,0.7367965367965368,0.1447461080050461
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,None,0.18953637431898307,0.6418152350081038,0.19885958660014258,0.7353643075546274,0.13916534400890446
+RandomForestClassifier,{'n_estimators': 20},DisparateImpactRemover,None,0.1849161414378806,0.6337115072933549,0.16152886671418387,0.7368501064153238,0.14408231776276262
+RandomForestClassifier,{'n_estimators': 20},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 20},None,None,0.25640957162696293,0.6423554835224203,0.22487526728439056,0.6486239203630508,0.21331004367491066
+RandomForestClassifier,{'n_estimators': 20},None,None,0.2585460955026173,0.6488384656942193,0.21133285816108338,0.6423848398655387,0.22023840290824073
+RandomForestClassifier,{'n_estimators': 20},None,None,0.21998183954705697,0.6477579686655862,0.18487170349251603,0.6776503737330254,0.1792679128149603
+RandomForestClassifier,{'n_estimators': 20},None,None,0.2302104476017519,0.6542409508373852,0.19493941553813254,0.6755128929041972,0.18750514942664537
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,None,0.19068475590214717,0.640194489465154,0.19413756236635782,0.7312252964426877,0.14157532425842428
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,None,0.2005661788270484,0.6412749864937871,0.17177476835352812,0.717297195558065,0.16195063390413592
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,None,0.16547377416942632,0.6342517558076716,0.17649679258731288,0.7599007982639696,0.1171469786273533
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,None,0.16101378057899807,0.6369529983792545,0.15618317890235212,0.759292530043518,0.11653215651769733
+RandomForestClassifier,{'n_estimators': 30},DisparateImpactRemover,None,0.1644856318769362,0.6347920043219881,0.17444761225944405,0.7613345733550337,0.11612238846341888
+RandomForestClassifier,{'n_estimators': 30},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 30},None,None,0.25376562333084074,0.6428957320367369,0.18077334283677826,0.6456857334625997,0.22376998657651345
+RandomForestClassifier,{'n_estimators': 30},None,None,0.25937399850443327,0.6547811993517018,0.19556307911617965,0.6445615576050359,0.21903290269876596
+RandomForestClassifier,{'n_estimators': 30},None,None,0.27865612648221344,0.646677471636953,0.21400570206699931,0.6284584980237155,0.2454979437270656
+RandomForestClassifier,{'n_estimators': 30},None,None,0.23432325606238652,0.6520799567801189,0.18139700641482537,0.6665399817573731,0.19634190560654027
+RandomForestClassifier,{'n_estimators': 30},None,None,0.23827582523234703,0.6499189627228525,0.18754454739843196,0.6609151717847369,0.200369874571626
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,None,0.1341736993910907,0.640194489465154,0.1281183178902352,0.8014229249011857,0.08818674891240222
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,None,0.18061638713812628,0.6391139924365208,0.15965787598004277,0.7326877470355732,0.14185183875338017
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,None,0.18048285439589795,0.640194489465154,0.1348895224518888,0.7503601640131505,0.14609797823794002
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,None,0.1409304561478475,0.6315505132360886,0.1342658588738418,0.7934880444566195,0.09732649541292962
+RandomForestClassifier,{'n_estimators': 40},DisparateImpactRemover,None,0.1644856318769362,0.6407347379794706,0.15333214540270845,0.7613345733550337,0.11926421883003471
+RandomForestClassifier,{'n_estimators': 40},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 40},None,None,0.28952569169960474,0.6547811993517018,0.22487526728439056,0.613965744400527,0.2525003381132967
+RandomForestClassifier,{'n_estimators': 40},None,None,0.22575045401132354,0.6591031874662344,0.18611903064861013,0.6724405177090599,0.1795507912239779
+RandomForestClassifier,{'n_estimators': 40},None,None,0.2674393761350284,0.6585629389519179,0.2351211689237348,0.6300838535702411,0.22190900321868312
+RandomForestClassifier,{'n_estimators': 40},None,None,0.2400918705266531,0.6520799567801189,0.1752494654312189,0.6615847920195747,0.20410510348987337
+RandomForestClassifier,{'n_estimators': 40},None,None,0.2623384253819036,0.6455969746083198,0.2263007840342125,0.640499194847021,0.22295137347839308
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,None,0.17337891250934723,0.6299297676931388,0.17177476835352812,0.7484305975354569,0.12848553030544455
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,None,0.16728981946373256,0.6369529983792545,0.1791696364932288,0.7596223953336658,0.1175292021070288
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,None,0.18112381155859414,0.6396542409508373,0.16152886671418387,0.7397444261099813,0.1380163417540385
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,None,0.18211195385108425,0.6391139924365208,0.17649679258731288,0.7383245711654324,0.13561753478874913
+RandomForestClassifier,{'n_estimators': 50},DisparateImpactRemover,None,0.17997542997543003,0.646677471636953,0.17507127583749116,0.7438811188811189,0.13204218099399095
+RandomForestClassifier,{'n_estimators': 50},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 50},None,None,0.2616707616707617,0.6369529983792545,0.23592302209550964,0.6346483704974271,0.22169651650031752
+RandomForestClassifier,{'n_estimators': 50},None,None,0.2654630915500481,0.655861696380335,0.19636493228795437,0.6328174060803073,0.2302707976597896
+RandomForestClassifier,{'n_estimators': 50},None,None,0.2567300502083111,0.6564019448946515,0.1922665716322166,0.64154672235066,0.21929304590334933
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,None,0.17567567567567566,0.6364127498649379,0.19636493228795437,0.74,0.1267402633086446
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,None,0.14603140690097205,0.6439762290653701,0.12544547398431927,0.7838735177865613,0.10341248617427523
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,None,0.171242388633693,0.6358725013506212,0.18736635780470423,0.7539429755554702,0.12162756276276651
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,None,0.19744151265890397,0.6461372231226364,0.16215253029223098,0.7243269445894548,0.15713951487348735
+RandomForestClassifier,{'n_estimators': 100},DisparateImpactRemover,None,0.19562546736459774,0.6461372231226364,0.192088382038489,0.7242612460003766,0.1462759249341845
+RandomForestClassifier,{'n_estimators': 100},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},None,CalibratedEqOddsPostprocessing,0.13940818288644374,0.7763371150729336,0.0,0.7757346623131123,0.0
+RandomForestClassifier,{'n_estimators': 100},None,None,0.2527774810383506,0.6553214478660183,0.1990377761938703,0.6470654038332463,0.21184167980903984
+RandomForestClassifier,{'n_estimators': 100},None,None,0.255902147206495,0.6520799567801189,0.20251247327156086,0.6392998306041785,0.21644162376773243
+RandomForestClassifier,{'n_estimators': 100},None,None,0.24997329345155428,0.6542409508373852,0.2201532430506059,0.6476566911349521,0.20358807190698233
+RandomForestClassifier,{'n_estimators': 100},None,None,0.2674393761350284,0.6515397082658023,0.20661083392729862,0.6300838535702411,0.2325311530596144
+RandomForestClassifier,{'n_estimators': 100},None,None,0.24882491186839012,0.6591031874662344,0.19289023521026372,0.6525840853158327,0.20781371084395409
