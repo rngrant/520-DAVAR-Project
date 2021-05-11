@@ -42,7 +42,7 @@ metrics = {'UnifiedMetricLibrary': [UnifiedMetricLibrary,
          }
 
 hyperparameters = {'LogisticRegression':{'penalty': ['l1', 'l2'], 'C': [0.1, 0.5, 1, 1.5],'solver':['liblinear']},
-                    'RandomForestClassifier':{'n_estimators': ['warn', 10, 20, 30, 40, 50, 100]
+                    'RandomForestClassifier':{'n_estimators': ['warn', 10, 20, 30, 40, 50]
                  }}
 
 thresholds = [i * 10.0/100 for i in range(5)]
