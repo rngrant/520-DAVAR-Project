@@ -1,0 +1,30 @@
+# History of the commands run to get fairkit running inside an ubuntu container.
+
+    1  apt-get update
+    3  apt-get install curl
+    5  curl -o Python-3.6.13.tgz  https://www.python.org/ftp/python/3.6.13/Python-3.6.13.tgz
+    6  apt-get install sqlite-devel
+    7  apt-get update
+    8  apt-get install sqlite-devel
+    9  apt-get install libsqlite3-dev
+   11  tar -xvf Python-3.6.13.tgz 
+   16  apt-get install gcc
+   21  apt-get install make
+   23  apt-get install zlib
+   24  apt-get update
+   28  apt-get install zlib1g-dev
+   40  cd Python-3.6.13
+   44  apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+   45  ./configure
+   46  make altinstall
+   48  pip3.6 install wheel
+   49  cd ../
+   50  apt-get install git
+   51  git clone https://github.com/brittjay0104/fairkit-learn
+   53  cd fairkit-learn/
+   55  pip3.6 install --upgrade pip
+   57  pip3.6 install -r requirements.txt
+   59  pip3.6 install jupyter
+   74  pip3.6 install fairkit-learn==1.9
+   77  pip install -U llvmlite==0.32.1
+   78  jupyter-notebook --allow-root
